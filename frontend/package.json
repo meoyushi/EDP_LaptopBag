@@ -1,0 +1,9 @@
+{
+  "name": "smart-productivity-bag-frontend",
+  "version": "0.1.0",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {}
+}

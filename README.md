@@ -6,6 +6,14 @@ Design & Fabrication Project — Group 58
 
 Guide: Prof. Vijay Kumar Gupta
 
+Members:
+1. Aayushi Rajesh Thakre - 23BCS004
+2. Ananya Yadav - 23BCS025
+3. Nafisa Tahasin - 23BCS290
+4. Ria Amit Singh - 23BDS044
+5. Saummya Telange - 23BME055
+6. Arpit Kumar - 23BEC022
+
 ## Project Summary
 
 The Multi-Utility Laptop Bag is a travel- and productivity-focused laptop bag that transforms into a stable workspace and integrates practical tech features such as an embedded GPS compartment and USB pass-through for on-the-go charging. It solves common problems students and travelers face when working on the move: unstable surfaces, limited charging access, and lack of an ergonomic workspace.

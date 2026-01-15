@@ -1,13 +1,10 @@
 import React from 'react';
-import { StatusBar } from 'react-native';
-import { BagProvider } from './context/BagContext';
-import AppNavigator from './navigation/AppNavigator';
+import { View, Text } from 'react-native';
 
 export default function App() {
   return (
-    <BagProvider>
-      <StatusBar barStyle="light-content" />
-      <AppNavigator />
-    </BagProvider>
+    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+      <Text>Smart Productivity Bag</Text>
+    </View>
   );
 }

@@ -1,17 +1,4 @@
 {
-  "expo": {
-    "name": "SmartProductivityBag",
-    "slug": "smart-productivity-bag",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {},
-    "web": {}
-  }
+  "name": "SmartProductivityBag",
+  "displayName": "Smart Productivity Bag"
 }
